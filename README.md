@@ -1,48 +1,10 @@
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nir-diamant-759323134/)
-[![Twitter](https://img.shields.io/twitter/follow/NirDiamantAI?label=Follow%20@NirDiamantAI&style=social)](https://twitter.com/NirDiamantAI)
-[![Discord](https://img.shields.io/badge/Discord-Join%20our%20community-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/cA6Aa4uyDX)
-
-
-> 🌟 **Support This Project:** Your sponsorship fuels innovation in prompt engineering development.  **[Become a sponsor](https://github.com/sponsors/NirDiamant)** to help maintain and expand this valuable resource!
-
 # Prompt Engineering Techniques: Comprehensive Repository for Development and Implementation 🖋️
-
 Welcome to one of the most extensive and dynamic collections of Prompt Engineering tutorials and implementations available today. This repository serves as a comprehensive resource for learning, building, and sharing prompt engineering techniques, ranging from basic concepts to advanced strategies for leveraging large language models.
 
-## 🎯 Sponsors
-
-<div align="center">
-
-<a href="https://coderabbit.link/nir">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/coderabbit_Dark_Type_Mark.png">
-    <img src="images/coderabbit_Light_Type_Mark_Orange.png" height="60" alt="Coderabbit">
-  </picture>
-</a>
-
-</div>
-
-## 📫 Stay Updated!
-
-<div align="center">
-<table>
-<tr>
-<td align="center">🚀<br><b>Cutting-edge<br>Updates</b></td>
-<td align="center">💡<br><b>Expert<br>Insights</b></td>
-<td align="center">🎯<br><b>Top 0.1%<br>Content</b></td>
-</tr>
-</table>
-
 [![Subscribe to DiamantAI Newsletter](images/subscribe-button.svg)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
-
-*Join over 50,000 AI enthusiasts getting unique cutting-edge insights and free tutorials!* ***Plus, subscribers get exclusive early access and special discounts to our upcoming RAG Techniques course!***
-</div>
-
 [![DiamantAI's newsletter](images/substack_image.png)](https://diamantai.substack.com/?r=336pe4&utm_campaign=pub-share-checklist)
 
 ## Introduction
-
 Prompt engineering is at the forefront of artificial intelligence, revolutionizing the way we interact with and leverage AI technologies. This repository is designed to guide you through the development journey, from basic prompt structures to advanced, cutting-edge techniques.
 
 Our goal is to provide a valuable resource for everyone - from beginners taking their first steps in AI to seasoned practitioners pushing the boundaries of what's possible. By offering a range of examples from foundational to complex, we aim to facilitate learning, experimentation, and innovation in the rapidly evolving field of prompt engineering.
@@ -50,7 +12,6 @@ Our goal is to provide a valuable resource for everyone - from beginners taking 
 Furthermore, this repository serves as a platform for showcasing innovative prompt engineering techniques. Whether you've developed a novel approach or found an innovative application for existing techniques, we encourage you to share your work with the community.
 
 ## 📖 Get the Fully Explained Version of This Repo
-
 This repository contains **22 hands-on Jupyter Notebook tutorials** covering **key prompt engineering techniques**.
 If you want to go **deeper** with **full explanations, intuitive insights, and structured exercises**, check out the **expanded version in book format**:
 
@@ -61,36 +22,16 @@ If you want to go **deeper** with **full explanations, intuitive insights, and s
 - 🎯 **Designed for learners who want a structured, guided approach**
 - 📄 **Instant access on any device – computer, tablet, or phone**
 
-Available on:
-- 📕 **[Amazon Kindle](https://www.amazon.com/dp/B0DZ85RPB5)** — $9.99
-- 📗 **[Amazon Paperback](https://www.amazon.com/dp/B0DZ9RVKMJ)** — $24.99
-- 📄 **[Gumroad (PDF)](https://nirdiamant.gumroad.com/l/mtxrfk)** — Full PDF version
-
-💡 **Subscribers to the DiamantAI newsletter receive an exclusive 33% (!) discount on the book.**
-
-
-
 ## Related Projects
+🚀 Level up with **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** repository. It delivers horizontal, code-first tutorials that cover every tool and step in the lifecycle of building production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches, making it the smartest place to start if you're serious about shipping agents to production.
 
-🚀 Level up with my **[Agents Towards Production](https://github.com/NirDiamant/agents-towards-production)** repository. It delivers horizontal, code-first tutorials that cover every tool and step in the lifecycle of building production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches, making it the smartest place to start if you're serious about shipping agents to production.
+📚 Explore **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to learn how to enhance AI systems with external knowledge retrieval, complementing language model capabilities with rich, up-to-date information.
 
-📚 Explore my **[comprehensive guide on RAG techniques](https://github.com/NirDiamant/RAG_Techniques)** to learn how to enhance AI systems with external knowledge retrieval, complementing language model capabilities with rich, up-to-date information.
+🤖 Dive into **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)** for a wide range of AI agent implementations and tutorials, from simple conversational bots to complex, multi-agent systems for various applications.
 
-🤖 Dive into my **[GenAI Agents Repository](https://github.com/NirDiamant/GenAI_Agents)** for a wide range of AI agent implementations and tutorials, from simple conversational bots to complex, multi-agent systems for various applications.
-
-## A Community-Driven Knowledge Hub
-
-**This repository grows stronger with your contributions!** Join our vibrant Discord community — the central hub for shaping and advancing this project together 🤝
-
-**[DiamantAI Discord Community](https://discord.gg/cA6Aa4uyDX)**
-
-Whether you're a novice eager to learn or an expert ready to share your knowledge, your insights can shape the future of prompt engineering. Join us to propose ideas, get feedback, and collaborate on innovative implementations. For contribution guidelines, please refer to our **[CONTRIBUTING.md](https://github.com/NirDiamant/Prompt_Engineering/blob/main/CONTRIBUTING.md)** file. Let's advance prompt engineering technology together!
-
-🔗 For discussions on GenAI, or to explore knowledge-sharing opportunities, feel free to **[connect on LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/)**.
-
+🔗 For discussions on GenAI, or to explore knowledge-sharing opportunities, recommend to **[connect on LinkedIn](https://www.linkedin.com/in/nir-diamant-759323134/)**.
 
 ## Key Features
-
 - 🎓 Learn prompt engineering techniques from beginner to advanced levels
 - 🧠 Explore a wide range of prompt structures and applications
 - 📚 Step-by-step tutorials and comprehensive documentation
@@ -99,8 +40,7 @@ Whether you're a novice eager to learn or an expert ready to share your knowledg
 - 🤝 Share your own prompt engineering creations with the community
 
 ## Prompt Engineering Techniques
-
-Explore our extensive list of prompt engineering techniques, ranging from basic to advanced:
+Explore extensive list of prompt engineering techniques, ranging from basic to advanced:
 
 | # | Category | Technique | Description |
 |---|----------|-----------|-------------|
@@ -331,23 +271,6 @@ To begin exploring and implementing prompt engineering techniques:
    ```
 3. Follow the detailed implementation guide in each technique's notebook.
 
-## Contributing
-
-We welcome contributions from the community! If you have a new technique or improvement to suggest:
-
-1. Fork the repository
-2. Create your feature branch: `git checkout -b feature/AmazingFeature`
-3. Commit your changes: `git commit -m 'Add some AmazingFeature'`
-4. Push to the branch: `git push origin feature/AmazingFeature`
-5. Open a pull request
-
-## License
-
-This project is licensed under a custom non-commercial license - see the [LICENSE](LICENSE) file for details.
-
----
-
-⭐️ If you find this repository helpful, please consider giving it a star!
 
 Keywords: Prompt Engineering, AI, Machine Learning, Natural Language Processing, LLM, Language Models, NLP, Conversational AI, Zero-Shot Learning, Few-Shot Learning, Chain of Thought
 
