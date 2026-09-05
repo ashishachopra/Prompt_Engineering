@@ -254,20 +254,5 @@ Explore extensive list of prompt engineering techniques, ranging from basic to a
     #### Implementation 🛠️
     Covers setting up evaluation metrics, implementing manual and automated evaluation techniques, and providing practical examples using OpenAI and LangChain.
 
-## Getting Started
-
-To begin exploring and implementing prompt engineering techniques:
-
-1. Clone this repository:
-   ```
-   git clone https://github.com/NirDiamant/Prompt_Engineering.git
-   ```
-2. Navigate to the technique you're interested in:
-   ```
-   cd all_prompt_engineering_techniques
-   ```
-3. Follow the detailed implementation guide in each technique's notebook.
-
-
 Keywords: Prompt Engineering, AI, Machine Learning, Natural Language Processing, LLM, Language Models, NLP, Conversational AI, Zero-Shot Learning, Few-Shot Learning, Chain of Thought
 
